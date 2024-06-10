@@ -2524,13 +2524,13 @@ files = [
 
 [[package]]
 name = "redis"
-version = "5.0.3"
+version = "5.0.5"
 description = "Python client for Redis database and key-value store"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "redis-5.0.3-py3-none-any.whl", hash = "sha256:5da9b8fe9e1254293756c16c008e8620b3d15fcc6dde6babde9541850e72a32d"},
-    {file = "redis-5.0.3.tar.gz", hash = "sha256:4973bae7444c0fbed64a06b87446f79361cb7e4ec1538c022d696ed7a5015580"},
+    {file = "redis-5.0.5-py3-none-any.whl", hash = "sha256:30b47d4ebb6b7a0b9b40c1275a19b87bb6f46b3bed82a89012cf56dea4024ada"},
+    {file = "redis-5.0.5.tar.gz", hash = "sha256:3417688621acf6ee368dec4a04dd95881be24efd34c79f00d31f62bb528800ae"},
 ]
 
 [package.extras]
@@ -3687,4 +3687,4 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "12cce423cfd27ae25a9bb413b8d5a8f5e641367be09421a111e1fe41d8dce57a"
+content-hash = "4fa3b0fa4eb5f69c7eadde4affbf202984f45edac99e710d5a24b53c41c9d103"
